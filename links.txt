@@ -1,0 +1,20 @@
+https://diydrones.com/profiles/blogs/diy-kinetic-motion-gimbal-controller
+http://www.kerrywong.com/2012/08/27/reverse-engineering-the-syma-s107g-ir-protocol/
+http://abarry.org/s107g-helicopter-control-via-arduino/
+https://diydrones.com/profiles/blogs/controlling-a-toy-helicopter-with-an-xbox-360-controller
+https://www.droneflyers.com/article-topics/uas-potential-topics/alternative-remote-control/
+http://www.tomsguide.com/faq/id-2374215/pair-remote-drone.html
+
+https://github.com/DeviationTX/deviation/blob/master/doc/SymaX.txt
+https://docs.google.com/spreadsheets/d/1nBHzT3VWF6ShAhOqRB5y0Bcc7aXFuRFFlQkHn1RIM84/edit#gid=0
+https://br-arduino.org/2015/06/arduino-sem-fio-nrf24l01.html
+
+
+https://www.youtube.com/watch?v=3TU_y85KfME
+https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=529&PartNo=5
+https://sites.google.com/site/de2i150atpurdue/real-time-image-processing
+http://www.tomsguide.com/faq/id-2374215/pair-remote-drone.html
+https://www.youtube.com/watch?v=nCPEJTUYch8
+https://www.youtube.com/watch?v=LfSxjvblcS4
+
+how to pair arduino with drone------PESQUISAR
