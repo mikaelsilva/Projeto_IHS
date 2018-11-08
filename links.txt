@@ -16,5 +16,6 @@ https://sites.google.com/site/de2i150atpurdue/real-time-image-processing
 http://www.tomsguide.com/faq/id-2374215/pair-remote-drone.html
 https://www.youtube.com/watch?v=nCPEJTUYch8
 https://www.youtube.com/watch?v=LfSxjvblcS4
+http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=890   // Link para o modulo wifi da placa
 
 how to pair arduino with drone------PESQUISAR
