@@ -24,3 +24,6 @@ how to pair arduino with drone------PESQUISAR
 
 //////ESTE LINK É E_X_T_R_E_M_A_M_E_N_T_E IMPORTANTE/////////////////
 https://drive.google.com/drive/folders/1fR8QYt2FcjQlteOPItzSjumWFwZAX9i9
+
+http://venividiwiki.ee.virginia.edu/mediawiki/index.php/ToolsAlteraLabs12
+https://www.youtube.com/watch?v=gBknFw511s0&t=654s
