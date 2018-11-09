@@ -29,3 +29,11 @@ http://venividiwiki.ee.virginia.edu/mediawiki/index.php/ToolsAlteraLabs12
 https://www.youtube.com/watch?v=gBknFw511s0&t=654s
 https://www.youtube.com/watch?v=j7NTlSP_7II
 https://www.youtube.com/watch?v=EoQ9oJbDTYs
+http://pickrightly.com/kingtoys-receiver-board-circuit-board-pcb-for-syma-x5x5ax5cx5c-1x5scx5sw-drone-spare-parts/
+https://pt.aliexpress.com/item/SYMA-X5HC-Receiver-Board-PCB-X5HW-Circuit-Board-RC-Drone-Spare-Parts-Accessories/32803281428.html
+https://pt.aliexpress.com/item/SYMA-X5HC-X5HW-Remote-Control-Drone-Accessory-Original-Receiver-With-Chips-PCB-Circuit-Main-Board-Rc/32822592806.html
+https://www.youtube.com/watch?v=SPvCHkSEKkE
+https://hackaday.com/2013/11/19/hacking-a-cheap-toy-quadcopter-to-work-with-arduino/
+https://www.youtube.com/watch?v=ibwFT3eZwz8
+https://www.rcgroups.com/forums/showthread.php?2451321-Can-I-transmit-Syma-X5C-with-non-original-transmitter
+https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/blob/master/Protocols_Details.md
