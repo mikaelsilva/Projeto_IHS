@@ -7,7 +7,7 @@ http://www.tomsguide.com/faq/id-2374215/pair-remote-drone.html
 
 https://github.com/DeviationTX/deviation/blob/master/doc/SymaX.txt
 https://docs.google.com/spreadsheets/d/1nBHzT3VWF6ShAhOqRB5y0Bcc7aXFuRFFlQkHn1RIM84/edit#gid=0
-https://br-arduino.org/2015/06/arduino-sem-fio-nrf24l01.html
+https://br-arduino.org/2015/06/arduino-sem-fio-nrf24l01.html   ->>>>>>IMPORTANTE
 
 
 https://www.youtube.com/watch?v=3TU_y85KfME
@@ -37,3 +37,9 @@ https://hackaday.com/2013/11/19/hacking-a-cheap-toy-quadcopter-to-work-with-ardu
 https://www.youtube.com/watch?v=ibwFT3eZwz8
 https://www.rcgroups.com/forums/showthread.php?2451321-Can-I-transmit-Syma-X5C-with-non-original-transmitter
 https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/blob/master/Protocols_Details.md
+http://quadcopterforum.com/threads/syma-x5-with-pcb-v6-communication-protocol.14559/
+https://users.757.org/~ethan/me_bookshelf/squared/PowerLogic_Implementation_of_SYMAX_Protocol.PDF
+https://www.filipeflop.com/blog/arduino-modulo-nrf24l01-tutorial/
+
+//// PROTOCOLOS ////////
+https://www.deviationtx.com/manuals/html-devo10/ch_protocols.html
