@@ -43,3 +43,7 @@ https://www.filipeflop.com/blog/arduino-modulo-nrf24l01-tutorial/
 
 //// PROTOCOLOS ////////
 https://www.deviationtx.com/manuals/html-devo10/ch_protocols.html
+
+/// IMPORTANTE ///
+https://bitbucket.org/deviationtx/deviation/pull-requests/15/symax-protocol-update/diff#chg-src/protocol/symax_nrf24l01.c
+
