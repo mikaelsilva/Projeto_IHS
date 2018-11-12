@@ -46,4 +46,5 @@ https://www.deviationtx.com/manuals/html-devo10/ch_protocols.html
 
 /// CODIGO DO PROTOCOLO 'SYMAX'///
 https://bitbucket.org/deviationtx/deviation/pull-requests/15/symax-protocol-update/diff#chg-src/protocol/symax_nrf24l01.c
+https://bitbucket.org/deviationtx/deviation/pull-requests/26/enhancements-to-symax-protocol/diff
 
