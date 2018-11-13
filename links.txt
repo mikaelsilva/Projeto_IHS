@@ -60,3 +60,5 @@ https://www.quora.com/How-do-you-make-a-remote-that-can-be-used-to-control-a-dro
 
 
 https://www.instructables.com/id/DIY-Arduino-Based-RC-Transmitter-and-Receiver/
+
+https://www.youtube.com/watch?v=Ujoyq_OYVXE
