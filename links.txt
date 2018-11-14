@@ -7,71 +7,55 @@ https://www.droneflyers.com/article-topics/uas-potential-topics/alternative-remo
 http://www.tomsguide.com/faq/id-2374215/pair-remote-drone.html
 https://br-arduino.org/2015/06/arduino-sem-fio-nrf24l01.html 
 http://pickrightly.com/kingtoys-receiver-board-circuit-board-pcb-for-syma-x5x5ax5cx5c-1x5scx5sw-drone-spare-parts/
+http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=890
 
- 
-/// Projetos
+/// PROJETOS GIT E DRIVE
 https://github.com/DeviationTX/deviation/blob/master/doc/SymaX.txt
 https://docs.google.com/spreadsheets/d/1nBHzT3VWF6ShAhOqRB5y0Bcc7aXFuRFFlQkHn1RIM84/edit#gid=0
 https://drive.google.com/drive/folders/1fR8QYt2FcjQlteOPItzSjumWFwZAX9i9
+https://sites.google.com/site/de2i150atpurdue/real-time-image-processing
+https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/blob/master/Protocols_Details.md
+https://github.com/Suxsem/symaxrx
 
+/// PLACA
+https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=529&PartNo=5
+https://www.youtube.com/watch?v=LfSxjvblcS4
+http://venividiwiki.ee.virginia.edu/mediawiki/index.php/ToolsAlteraLabs12
 
-/// VIDEOS
+/// VIDEOS PLACA
 https://www.youtube.com/watch?v=gBknFw511s0&t=654s
 https://www.youtube.com/watch?v=j7NTlSP_7II
 https://www.youtube.com/watch?v=EoQ9oJbDTYs
 https://www.youtube.com/watch?v=Ujoyq_OYVXE
 https://www.youtube.com/watch?v=Q34f1aeZxmM
 https://www.youtube.com/watch?v=Ujoyq_OYVXE
-https://www.youtube.com/watch?v=Q34f1aeZxmM
-
 https://www.youtube.com/watch?v=3TU_y85KfME
-https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=529&PartNo=5
-https://sites.google.com/site/de2i150atpurdue/real-time-image-processing
-http://www.tomsguide.com/faq/id-2374215/pair-remote-drone.html
 https://www.youtube.com/watch?v=nCPEJTUYch8
-https://www.youtube.com/watch?v=LfSxjvblcS4
-http://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=890   // Link para o modulo wifi da placa
 
-how to pair arduino with drone
-
-(falta terminar de organizar)
-
-
-
-
-https://drive.google.com/drive/folders/1fR8QYt2FcjQlteOPItzSjumWFwZAX9i9
-
-http://venividiwiki.ee.virginia.edu/mediawiki/index.php/ToolsAlteraLabs12
-
-http://pickrightly.com/kingtoys-receiver-board-circuit-board-pcb-for-syma-x5x5ax5cx5c-1x5scx5sw-drone-spare-parts/
+/// DRONE
+http://quadcopterforum.com/threads/can-syma-x5sw-run-the-x5hw-altitude-hold-board.12886/
 https://pt.aliexpress.com/item/SYMA-X5HC-Receiver-Board-PCB-X5HW-Circuit-Board-RC-Drone-Spare-Parts-Accessories/32803281428.html
-https://pt.aliexpress.com/item/SYMA-X5HC-X5HW-Remote-Control-Drone-Accessory-Original-Receiver-With-Chips-PCB-Circuit-Main-Board-Rc/32822592806.html
-https://www.youtube.com/watch?v=SPvCHkSEKkE
 https://hackaday.com/2013/11/19/hacking-a-cheap-toy-quadcopter-to-work-with-arduino/
-https://www.youtube.com/watch?v=ibwFT3eZwz8
 https://www.rcgroups.com/forums/showthread.php?2451321-Can-I-transmit-Syma-X5C-with-non-original-transmitter
-https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/blob/master/Protocols_Details.md
+https://www.deviationtx.com/forum/protocol-development/3768-syma-x5c-1-x11-x12?start=240
+https://www.gismonews.com/pt/t12-jumper-open-source-multi-protocol-rc-transmitter/
 http://quadcopterforum.com/threads/syma-x5-with-pcb-v6-communication-protocol.14559/
-https://users.757.org/~ethan/me_bookshelf/squared/PowerLogic_Implementation_of_SYMAX_Protocol.PDF
 https://www.filipeflop.com/blog/arduino-modulo-nrf24l01-tutorial/
+https://www.rcgroups.com/forums/showthread.php?2650343-Syma-X5HW-Altitude-Hold-Quadcopter-%28Owner-Reviews%29
+https://www.instructables.com/id/DIY-Arduino-Based-RC-Transmitter-and-Receiver/
+
+/// VIDEO DRONE
+https://www.youtube.com/watch?v=SPvCHkSEKkE
+https://www.youtube.com/watch?v=ibwFT3eZwz8
+https://www.youtube.com/watch?v=xLpHkA6VwPI
 
 //// PROTOCOLOS ////////
 https://www.deviationtx.com/manuals/html-devo10/ch_protocols.html
+https://www.thedronefiles.net/2016/10/03/understanding-radio-communication-protocols/
 
 /// CODIGO DO PROTOCOLO 'SYMAX'///
 https://bitbucket.org/deviationtx/deviation/pull-requests/15/symax-protocol-update/diff#chg-src/protocol/symax_nrf24l01.c
 https://bitbucket.org/deviationtx/deviation/pull-requests/26/enhancements-to-symax-protocol/diff
 
 
-não to ligado como o senhor organiza mas esses links são interessantes
-http://www.kerrywong.com/2012/08/27/reverse-engineering-the-syma-s107g-ir-protocol/
-https://www.thedronefiles.net/2016/10/03/understanding-radio-communication-protocols/
-
-/// 12/11/2018
-https://www.rcgroups.com/forums/showthread.php?2650343-Syma-X5HW-Altitude-Hold-Quadcopter-%28Owner-Reviews%29
-https://www.quora.com/How-do-you-make-a-remote-that-can-be-used-to-control-a-drone-or-car-Are-there-any-links-to-help-with-this
-
-
-
-https://www.instructables.com/id/DIY-Arduino-Based-RC-Transmitter-and-Receiver/
 
