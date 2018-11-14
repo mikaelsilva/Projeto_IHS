@@ -22,6 +22,7 @@ https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=1
 https://www.youtube.com/watch?v=LfSxjvblcS4
 http://venividiwiki.ee.virginia.edu/mediawiki/index.php/ToolsAlteraLabs12
 http://rijndael.ece.vt.edu/de2i150/designs/hellopci.pdf
+http://www.ee.unlv.edu/~regent/NVSG/Tutorial.pdf ----> NIOS 2 PROCESSOR, LCD?
 
 /// VIDEOS PLACA
 https://www.youtube.com/watch?v=gBknFw511s0&t=654s
