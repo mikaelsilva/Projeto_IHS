@@ -21,6 +21,7 @@ https://github.com/Suxsem/symaxrx
 https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=529&PartNo=5
 https://www.youtube.com/watch?v=LfSxjvblcS4
 http://venividiwiki.ee.virginia.edu/mediawiki/index.php/ToolsAlteraLabs12
+http://rijndael.ece.vt.edu/de2i150/designs/hellopci.pdf
 
 /// VIDEOS PLACA
 https://www.youtube.com/watch?v=gBknFw511s0&t=654s
@@ -31,6 +32,7 @@ https://www.youtube.com/watch?v=Q34f1aeZxmM
 https://www.youtube.com/watch?v=Ujoyq_OYVXE
 https://www.youtube.com/watch?v=3TU_y85KfME
 https://www.youtube.com/watch?v=nCPEJTUYch8
+https://www.youtube.com/watch?v=aefDgAaqylQ
 
 /// DRONE
 http://quadcopterforum.com/threads/can-syma-x5sw-run-the-x5hw-altitude-hold-board.12886/
