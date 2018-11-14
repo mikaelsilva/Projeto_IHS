@@ -65,3 +65,4 @@ https://www.youtube.com/watch?v=1ibAiPNeQSI //CONFIGURANDO BIBLIOTEA RF24
 https://www.youtube.com/watch?v=7rcVeFFHcFM //TUTORIAL NRF24L01
 
 
+https://forum.arduino.cc/index.php?topic=374359.0
