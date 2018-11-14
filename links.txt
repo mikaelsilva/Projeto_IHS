@@ -60,5 +60,8 @@ https://www.thedronefiles.net/2016/10/03/understanding-radio-communication-proto
 https://bitbucket.org/deviationtx/deviation/pull-requests/15/symax-protocol-update/diff#chg-src/protocol/symax_nrf24l01.c
 https://bitbucket.org/deviationtx/deviation/pull-requests/26/enhancements-to-symax-protocol/diff
 
+/// ARDUINO
+https://www.youtube.com/watch?v=1ibAiPNeQSI //CONFIGURANDO BIBLIOTEA RF24
+https://www.youtube.com/watch?v=7rcVeFFHcFM //TUTORIAL NRF24L01
 
 
