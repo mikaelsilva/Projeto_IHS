@@ -16,6 +16,8 @@ https://drive.google.com/drive/folders/1fR8QYt2FcjQlteOPItzSjumWFwZAX9i9
 https://sites.google.com/site/de2i150atpurdue/real-time-image-processing
 https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/blob/master/Protocols_Details.md
 https://github.com/Suxsem/symaxrx
+https://github.com/goebish/nrf24_multipro/blob/master/README.md // FUTURO
+https://github.com/0zoon0/Bayang2PPM
 
 /// PLACA
 https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=529&PartNo=5
