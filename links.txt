@@ -19,6 +19,7 @@ https://github.com/Suxsem/symaxrx
 https://github.com/goebish/nrf24_multipro/blob/master/README.md // FUTURO
 https://github.com/0zoon0/Bayang2PPM
 https://github.com/pascallanger/DIY-Multiprotocol-TX-Module // TESTE EM OUTRO ARDUINO
+https://github.com/mundodron/syma-rx
 
 /// PLACA
 https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=529&PartNo=5
@@ -66,6 +67,7 @@ https://bitbucket.org/deviationtx/deviation/pull-requests/26/enhancements-to-sym
 /// ARDUINO
 https://www.youtube.com/watch?v=1ibAiPNeQSI //CONFIGURANDO BIBLIOTEA RF24
 https://www.youtube.com/watch?v=7rcVeFFHcFM //TUTORIAL NRF24L01
-
+https://www.youtube.com/watch?v=Tt7SzViJn4Y
 
 https://forum.arduino.cc/index.php?topic=374359.0
+
