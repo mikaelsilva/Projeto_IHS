@@ -68,6 +68,8 @@ https://bitbucket.org/deviationtx/deviation/pull-requests/26/enhancements-to-sym
 https://www.youtube.com/watch?v=1ibAiPNeQSI //CONFIGURANDO BIBLIOTEA RF24
 https://www.youtube.com/watch?v=7rcVeFFHcFM //TUTORIAL NRF24L01
 https://www.youtube.com/watch?v=Tt7SzViJn4Y
+https://www.youtube.com/watch?v=8xGrPpXyc5w
+https://www.youtube.com/watch?v=mZf4W3BG9sQ
 
 https://forum.arduino.cc/index.php?topic=374359.0
 
