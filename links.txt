@@ -55,6 +55,7 @@ https://www.instructables.com/id/DIY-Arduino-Based-RC-Transmitter-and-Receiver/
 https://www.youtube.com/watch?v=SPvCHkSEKkE
 https://www.youtube.com/watch?v=ibwFT3eZwz8
 https://www.youtube.com/watch?v=xLpHkA6VwPI
+https://www.youtube.com/watch?v=uS5SgzAuLHY //11-19
 
 /// PROTOCOLOS ////////
 https://www.deviationtx.com/manuals/html-devo10/ch_protocols.html
