@@ -8,12 +8,14 @@ http://www.bosontreinamentos.com.br/eletronica/arduino/tocando-notas-musicais-co
 https://github.com/ThiagoAugustoSM/arduino-tablature
 https://drive.google.com/file/d/1nJbKpGvLWJmuFzbvAYJmVf12LpgPACDI/view
 https://github.com/mfbsouza
+https://github.com/VectStudio/LED_CUBE
 
 
 //Videos
 https://www.youtube.com/watch?v=Xsjwt9nXue0
 https://www.youtube.com/watch?v=ASsLggklvkU
 https://www.youtube.com/watch?v=VxLAtcOu18s
+https://www.youtube.com/watch?v=T5Aq7cRc-mU&pbjreload=10
 
 
 
