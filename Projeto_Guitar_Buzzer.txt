@@ -5,6 +5,9 @@
 https://www.instructables.com/id/Arduino-Theremin-With-Variable-Pitch-and-Volume/
 http://arduino-er.blogspot.com/2014/01/serial-communication-between-arduino_27.html
 http://www.bosontreinamentos.com.br/eletronica/arduino/tocando-notas-musicais-com-o-arduino/
+https://github.com/ThiagoAugustoSM/arduino-tablature
+https://drive.google.com/file/d/1nJbKpGvLWJmuFzbvAYJmVf12LpgPACDI/view
+
 
 //Videos
 https://www.youtube.com/watch?v=Xsjwt9nXue0
