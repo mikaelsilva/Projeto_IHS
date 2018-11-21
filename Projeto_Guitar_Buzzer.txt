@@ -7,6 +7,7 @@ http://arduino-er.blogspot.com/2014/01/serial-communication-between-arduino_27.h
 http://www.bosontreinamentos.com.br/eletronica/arduino/tocando-notas-musicais-com-o-arduino/
 https://github.com/ThiagoAugustoSM/arduino-tablature
 https://drive.google.com/file/d/1nJbKpGvLWJmuFzbvAYJmVf12LpgPACDI/view
+https://github.com/mfbsouza
 
 
 //Videos
