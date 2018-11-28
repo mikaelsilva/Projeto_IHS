@@ -116,19 +116,19 @@
 #define Nota_AS 58
 #define Nota_B 63
 
-#define Pin_Oitava_1 22
-#define Pin_Oitava_2 24
-#define Pin_Oitava_3 26
-#define Pin_Oitava_4 28
+#define Pin_Oitava_1 2//22
+#define Pin_Oitava_2 3//24
+#define Pin_Oitava_3 4//26
+#define Pin_Oitava_4 5//28
 #define Pin_Oitava_5 30
 #define Pin_Oitava_6 32
 #define Pin_Oitava_7 34
 #define Pin_Oitava_8 36
 
-#define Pin_Nota_C 23
-#define Pin_Nota_D 25
-#define Pin_Nota_E 27
-#define Pin_Nota_F 29
+#define Pin_Nota_C 6//23
+#define Pin_Nota_D 7//25
+#define Pin_Nota_E 8//27
+#define Pin_Nota_F 10//29
 #define Pin_Nota_G 31
 #define Pin_Nota_A 33
 #define Pin_Nota_B 35
@@ -144,7 +144,7 @@
 #define pino_trigger2 48
 #define pino_echo2 49
 
-#include <Ultrasonic.h>
+//#include <Ultrasonic.h>
 
 
 
@@ -157,8 +157,8 @@ int     qual_nota=0;
 int     qual_oitava=0,coluna=0,linha=0;
 float   distancia=0,aux=0;
  
-Ultrasonic ultrasonic(pino_trigger, pino_echo);
-Ultrasonic ultrasonic2(pino_trigger2, pino_echo2);
+//Ultrasonic ultrasonic(pino_trigger, pino_echo);
+//Ultrasonic ultrasonic2(pino_trigger2, pino_echo2);
 
 void setup() {
   Serial.begin(115200);
@@ -183,26 +183,31 @@ void setup() {
   pinMode(Pin_Nota_DS, OUTPUT); 
   pinMode(Pin_Nota_FS, OUTPUT); 
   pinMode(Pin_Nota_GS, OUTPUT); 
-  pinMode(Pin_Nota_AS, OUTPUT); 
+  pinMode(Pin_Nota_AS, OUTPUT);
 
 }
 
 void loop() {
 
   if(Serial.available()){
-    qual_nota = Serial.read();
+    qual_nota = (int)Serial.read();
+    Serial.write(qual_nota);
   }
   
   pino(qual_nota);
-  aux = ultrasonic.timing();
-  distancia = ultrasonic.convert(aux, Ultrasonic::CM);
+//  aux = ultrasonic.timing();
+//  distancia = ultrasonic.convert(aux, Ultrasonic::CM);
   coluna = oitava(distancia);
   
-  aux = ultrasonic2.timing();
-  distancia = ultrasonic2.convert(aux, Ultrasonic::CM);
+//  aux = ultrasonic2.timing();
+//  distancia = ultrasonic2.convert(aux, Ultrasonic::CM);
   linha = nota(distancia);
 
   correto(qual_nota,linha,coluna);
+  /*digitalWrite(Pin_Oitava_2,HIGH);
+  delay(100);
+  digitalWrite(Pin_Oitava_2,LOW);
+  delay(400);*/
 
   //Aqui seria a função que manteria o buzzer ligado somente se o buzzer for usado no arduino,
   //como iremos utilizar o buzzer da placa,não precisamos fa função do buzzer aqui, retornamos somente a frequencia
@@ -215,6 +220,10 @@ void pino(int qual_nota){
    int oitava = 0,nota = 0;
    oitava = qual_nota % 9;
    nota = qual_nota/9;
+   //Serial.print("a");
+   //Serial.println(nota);
+   //Serial.println(" ");
+   
 
   if(oitava == 1){
     digitalWrite(Pin_Oitava_1, HIGH);      
@@ -272,11 +281,13 @@ void pino(int qual_nota){
     digitalWrite(Pin_Nota_B, LOW);
   }
   else if(nota == 3){
+    Serial.print("printando o c");
     digitalWrite(Pin_Nota_C, HIGH);      
     delay(100);                 
     digitalWrite(Pin_Nota_C, LOW);
   }
   else if(nota == 4){
+    Serial.print("olha o D chegando");
     digitalWrite(Pin_Nota_D, HIGH);      
     delay(100);                 
     digitalWrite(Pin_Nota_D, LOW);
@@ -322,7 +333,7 @@ void pino(int qual_nota){
     digitalWrite(Pin_Nota_AS, LOW);
   }
   else {
-    //??
+
   } 
 }
 
@@ -413,11 +424,13 @@ int nota(float distancia){
 }
 
 void correto(int qual_nota,int linha, int coluna){
-    if(nota[linha][coluna] == (nota+qual_nota)){
-    Serial.write("y");
+    int *notaFake;
+    notaFake = &notas[0][0];
+    if(nota[linha][coluna] == (notaFake[qual_nota])){
+      //Serial.write("y");
+    
     }
     else{
-    Serial.write("n");
+      //Serial.write("n");
     }
 }
-
