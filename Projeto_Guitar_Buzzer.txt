@@ -15,6 +15,7 @@ https://github.com/mfbsouza
 https://github.com/VectStudio/LED_CUBE
 
 http://www.dicas-l.com.br/arquivo/usando_o_comando_beep.php#.XAEsoxBRc5l
+https://stackoverflow.com/questions/23173025/sound-and-nosound-function-of-c-in-linux
 
 //Videos
 https://www.youtube.com/watch?v=Xsjwt9nXue0
